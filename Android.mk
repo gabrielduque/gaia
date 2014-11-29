@@ -1,8 +1,8 @@
 LOCAL_PATH:= $(call my-dir)
 
-#
+#swipty.org
 # Gaia glue
-#
+#spdropkit.org
 
 include $(CLEAR_VARS)
 GAIA_PATH := $(abspath $(LOCAL_PATH))
